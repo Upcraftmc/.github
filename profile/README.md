@@ -1,6 +1,56 @@
-# Upcraft
-
-## Minecraft auf einem neuen Level
+<div align="center">
+  <img width="300" height="300" src="https://cdn.discordapp.com/attachments/939864558791692298/1076288790089437256/upcraft_logo_text_nobg.png"/>
+</div>
+<div align="center">
+    <h1>UpcraftMC</h1>
+    <a href="https://discord.gg/upcraft">
+        <img src="https://img.shields.io/discord/1063498670345027705.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
+    </a>
+    <a href="/issues">
+        <img src="https://img.shields.io/github/issues/Upcraftmc/.github.svg?style=for-the-badge">
+    </a>
+    <br>
+</div>
 
 ---
 
+**How to Join?**:
+
+<div style="display:flex;flex-direction:row;width:100%;align-items:center;justify-content:space-around;">
+<span>Address: <code>upctaftmc.de</code></span>
+<span>Port: <code>25565</code></span>
+</div>
+
+---
+
+## Info
+
+Minecraft Server and Community with many different Projects in the future. You could say its Minecraft at a new Level!
+
+We hope you enjoy it.
+
+### Currently Active Projects:
+
+-   Survival Attack - Never ends.
+
+**Tech Stack**:
+
+-   [NodeJS](https://nodejs.org/en/)
+-   [ExpressJS](https://expressjs.com/)
+-   [ReactJS](https://reactjs.org/)
+-   [Tailwind CSS](https://tailwindcss.com/)
+-   [Golang](https://go.dev/)
+-   [Java](https://www.java.com/)
+-   [Maven](https://maven.apache.org/)
+-   [Gradle](https://gradle.org/)
+-   [Velocity Proxy](https://velocitypowered.com/)
+-   [Minecraft Paper](https://papermc.io/)
+
+---
+
+## Links
+
+Here are some links that are associated with UpcraftMC:
+
+-   [Discord](https://discord.gg/upcraft 'Link to the official Discord Server.')
+-   [Website](https://upcraftmc.de/ 'Link to the official Website.')
