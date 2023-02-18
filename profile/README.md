@@ -6,7 +6,7 @@
     <a href="https://discord.gg/upcraft">
         <img src="https://img.shields.io/discord/1063498670345027705.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
     </a>
-    <a href="/issues">
+    <a href="https://github.com/upcraftmc/.github/issues">
         <img src="https://img.shields.io/github/issues/Upcraftmc/.github.svg?style=for-the-badge">
     </a>
     <br>
