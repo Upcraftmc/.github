@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="300" height="300" src="https://cdn.discordapp.com/attachments/939864558791692298/1076288790089437256/upcraft_logo_text_nobg.png"/>
+  <img width="450" height="450" src="https://cdn.discordapp.com/attachments/939864558791692298/1080231625981427773/UPCRAFT_Logo.png"/>
 </div>
 <div align="center">
     <h1>UpcraftMC</h1>
