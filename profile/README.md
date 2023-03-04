@@ -17,7 +17,7 @@
 **How to Join?**:
 
 <div style="display:flex;flex-direction:row;width:100%;align-items:center;justify-content:space-around;">
-<span>Address: <code>upctaftmc.de</code></span>
+<span>Address: <code>upctaftmc.com</code></span>
 <span>Port: <code>25565</code></span>
 </div>
 
@@ -53,4 +53,4 @@ We hope you enjoy it.
 Here are some links that are associated with UpcraftMC:
 
 -   [Discord](https://discord.gg/upcraft 'Link to the official Discord Server.')
--   [Website](https://upcraftmc.de/ 'Link to the official Website.')
+-   [Website](https://upcraftmc.com/ 'Link to the official Website.')
