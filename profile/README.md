@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     <h1>UpcraftMC</h1>
-    <a href="https://discord.gg/upcraft">
+    <a href="https://dc.upcraftmc.com/">
         <img src="https://img.shields.io/discord/1063498670345027705.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
     </a>
     <a href="https://github.com/upcraftmc/.github/issues">
