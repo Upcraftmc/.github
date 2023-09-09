@@ -31,7 +31,7 @@ We hope you enjoy it.
 
 ### Currently Active Projects:
 
--   Survival Attack - Never ends.
+-   None
 
 **Tech Stack**:
 
@@ -52,5 +52,5 @@ We hope you enjoy it.
 
 Here are some links that are associated with UpcraftMC:
 
--   [Discord](https://discord.gg/upcraft 'Link to the official Discord Server.')
+-   [Discord](https://dc.upcraftmc.com/ 'Link to the official Discord Server.')
 -   [Website](https://upcraftmc.com/ 'Link to the official Website.')
