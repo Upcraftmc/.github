@@ -17,7 +17,7 @@
 **How to Join?**:
 
 <div style="display:flex;flex-direction:row;width:100%;align-items:center;justify-content:space-around;">
-<span>Address: <code>upctaftmc.com</code></span>
+<span>Address: <code>upcraftmc.com</code></span>
 <span>Port: <code>25565</code></span>
 </div>
 
